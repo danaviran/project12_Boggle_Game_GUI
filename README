@@ -1,0 +1,9 @@
+Writers: Eldad Eliyahu, Dana Aviran
+CSE usernames: Eldad333, dana.av
+ID numbers: 318565058, 211326608
+About The GUI
+We wished to design a simplistic but elegant application for our version of the Boggle game.
+We added instructions to the initial message opened at the Boggle file opening, for two reasons:
+- To make the game as clear as possible, while the rules are not intuitive to all.
+- To make sure the players know the 03:00 minute countdown starts right after they click to start to start the game.
+To Allow harmony of colors, we picked Red, Orange, light Blue, dark Green and light Green.
